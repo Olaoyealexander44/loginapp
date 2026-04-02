@@ -1,5 +1,55 @@
-# Login Implementation Documentation
+#quick start to run the app
 
+cd loginapp
+```bash
+npm install
+npm start
+```
+
+# API keys for loginin;
+username: string
+password: string
+
+
+# Quick Start
+
+To run the application, navigate to the `loginapp` directory and install the dependencies:
+
+```bash
+cd loginapp
+npm install
+npm start
+```
+
+# Test Credentials
+
+You can use the following credentials to test the login functionality:
+
+- **Username**: `emilys`
+- **Password**: `emilys`
+
+---
+
+# Quick Start
+
+To run the application, navigate to the `loginapp` directory and install the dependencies:
+
+```bash
+cd loginapp
+npm install
+npm start
+```
+
+# Test Credentials
+
+You can use the following credentials to test the login functionality:
+
+- **Username**: `Emilys`
+- **Password**: `Emilys`
+
+---
+
+# Login Implementation Documentation
 This document outlines the step-by-step implementation of the login functionality using **Custom Hooks** and **TanStack Query** (React Query) in the `loginapp`.
 
 ---
